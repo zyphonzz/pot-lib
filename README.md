@@ -1,2 +1,3 @@
 # pot-lib
-random library thing im making idk
+cool ol lib thing
+just added built in shit with easier access
